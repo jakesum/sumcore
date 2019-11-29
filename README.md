@@ -2,7 +2,7 @@ Sumcore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/sumcore.svg?style=flat-square)](https://www.npmjs.org/package/sumcore)
-[![Build Status](https://img.shields.io/travis/sumcoinlabs/sumcore.svg?branch=master&style=flat-square)](https://travis-ci.org/sumcoinlabs/sumcore)
+[![Build Status](https://img.shields.io/travis/jakesum/sumcore.svg?branch=master&style=flat-square)](https://travis-ci.org/jakesum/sumcore)
 
 Infrastructure to build Sumcoin and blockchain-based applications for the next generation of financial technology.
 
