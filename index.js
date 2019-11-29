@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var sumcore = require('sumcore-lib');
 
-module.exports = litecore;
+module.exports = sumcore;

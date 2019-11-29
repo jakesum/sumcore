@@ -1,5 +1,5 @@
 {
-  "name": "litecore",
+  "name": "sumcore",
   "version": "4.1.10",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
@@ -9,13 +9,13 @@
     "build-deb": "./scripts/build-deb"
   },
   "bin": {
-    "litecore": "./bin/litecore",
+    "sumcore": "./bin/sumcore",
     "litecored": "./bin/litecored"
   },
   "contributors": [
     {
       "name": "Charlie Lee",
-      "email": "coblee@litecoin.org"
+      "email": "coblee@sumcoin.org"
     },
     {
       "name": "Daniel Cousens",
@@ -67,7 +67,7 @@
     }
   ],
   "keywords": [
-    "litecoin",
+    "sumcoin",
     "transaction",
     "address",
     "p2p",
@@ -84,16 +84,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore.git"
+    "url": "https://github.com/sumcoinlabs/sumcore.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.22",
-    "litecore-node": "^3.1.11",
-    "insight-lite-api": "^0.4.4",
-    "insight-lite-ui": "^0.4.2"
+    "sumcore-lib": "^0.13.22",
+    "sumcore-node": "^3.1.11",
+    "insight-sum-api": "^0.4.4",
+    "insight-sum-ui": "^0.4.2"
   },
   "license": "MIT",
   "devDependencies": {
