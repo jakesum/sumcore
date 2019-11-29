@@ -10,7 +10,7 @@
   },
   "bin": {
     "sumcore": "./bin/sumcore",
-    "litecored": "./bin/litecored"
+    "sumcored": "./bin/sumcored"
   },
   "contributors": [
     {

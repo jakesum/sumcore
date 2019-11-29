@@ -1,4 +1,4 @@
-Litecore
+Sumcore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/sumcore.svg?style=flat-square)](https://www.npmjs.org/package/sumcore)
@@ -6,7 +6,7 @@ Litecore
 
 Infrastructure to build Sumcoin and blockchain-based applications for the next generation of financial technology.
 
-**Note:** If you're looking for the Litecore Library please see: https://github.com/sumcoinlabs/sumcore-lib
+**Note:** If you're looking for the Sumcore Library please see: https://github.com/sumcoinlabs/sumcore-lib
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Spin up a full node and join the network:
 
 ```bash
 npm install -g sumcore
-litecored
+sumcored
 ```
 
 You can then view the Insight block explorer at the default location: `http://localhost:3001/insight`, and your configuration file will be found in your home directory at `~/.sumcore`.
@@ -65,7 +65,7 @@ To get community assistance and ask for help with implementation questions, plea
 
 ## Security
 
-We're using Litecore in production, as are [many others](http://sumcore.io#projects), but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
+We're using Sumcore in production, as are [many others](http://sumcore.io#projects), but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
 If you find a security issue, please email security@bitpay.com.
 
@@ -88,4 +88,4 @@ To verify signatures, use the following PGP keys:
 Code released under [the MIT license](https://github.com/sumcoinlabs/sumcore/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-Copyright 2016 The Litecore Core Developers
+Copyright 2016 The Sumcore Core Developers
